@@ -1,2 +1,2 @@
 # Postman-weather
-learning to apis for a website project
+learning to use api's to pool information for a website project
